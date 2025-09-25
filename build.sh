@@ -1,0 +1,1 @@
+docker build -t pybullet -f c:/Windows/System32/pybullet/dockerfile .
